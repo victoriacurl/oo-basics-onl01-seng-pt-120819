@@ -45,3 +45,5 @@ def cobble
 end
 
 end
+
+Shoe.condition(new)

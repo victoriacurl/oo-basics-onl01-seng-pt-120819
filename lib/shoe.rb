@@ -46,4 +46,4 @@ end
 
 end
 
-Shoe.condition("new")
+

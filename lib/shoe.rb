@@ -40,4 +40,8 @@ def condition
   @condition
 end
 
+def cobble
+  puts "the shoe has been repaired"
+end
+
 end
